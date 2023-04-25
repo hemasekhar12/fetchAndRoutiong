@@ -1,0 +1,32 @@
+.blog-data-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.title {
+  font-size: 20px;
+}
+.author-container {
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+}
+.author-image {
+  height: 25px;
+  border-radius: 16px;
+}
+.author-name {
+  font-size: 18px;
+  padding-left: 8px;
+}
+.course-image {
+  height: 300px;
+  width: 75vw;
+  border-radius: 8px;
+}
+.content {
+}

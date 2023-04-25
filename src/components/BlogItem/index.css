@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.item-image {
+  height: 120px;
+  width: 170px;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+.avatar {
+  height: 25px;
+  border-radius: 20px;
+}
+.item-container {
+  display: flex;
+
+  align-items: center;
+  padding: 10px;
+  border: 2px solid #d3d3d3;
+  border-radius: 7px;
+  font-family: 'Roboto';
+  margin: 4px;
+}
+.item-topic {
+  font-size: 15px;
+  color: #8e8e8e;
+  text-decoration: none;
+}
+.item-title {
+  color: #000000;
+}
+.author-info {
+  display: flex;
+  align-items: center;
+}
